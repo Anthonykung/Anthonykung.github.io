@@ -1,10 +1,8 @@
 # Hello 👋
 
-I'm Anthony Kung, an Electrical & Computer Engineer and also a Computer Scientist. I started coding at the age of 12 and have been working as a professional developer since the age of 13. I'm AWS partnered, GCP partnered, Azure partnered, IONOS partnered, Shopify partnered, BigCommerce partnered, GoDaddy Pro, and a whole lot more. Since 2014 I have worked on over 300 projects including some multimillion companies, that's an average of 1 project per week.
+I'm Anthony Kung, an Electrical & Computer Engineer and also a Computer Scientist. I started coding at the age of 12 and have been working as a professional developer since the age of 13. From 2014 to 2020, I have worked on over 300 projects including some multimillion companies, that's an average of 1 project per week. On 2021, I won the Electrical and Computer Engineering Junior Design **Technical Choice Award** at Oregon State University [check it out here](https://eecs.oregonstate.edu/project-showcase/browse.php?category=ECE34xSp21).
 
-I currently operate 7 server networks and over 30 domains.
-
-I'm currently looking for internship, if you have an opening for ITOps engineers or DevOps engineers, I'd love to get in touch!
+I currently operate 9 servers and over 30 domains.
 
 ## 📢 Shoutout
  [@TheOneKevin](https://github.com/TheOneKevin) is super smart! Go Kev :3
@@ -13,18 +11,18 @@ I'm currently looking for internship, if you have an opening for ITOps engineers
 
  #BlackLivesMatter
  
- Operation & IT at [KidSpirit @ Oregon State University](https://kidspirit.oregonstate.edu)
+ Office & IT Supervisor at [KidSpirit @ Oregon State University](https://kidspirit.oregonstate.edu)
  
- Proud Beaver from [Oregon State University](http://people.oregonstate.edu/~kungc/)
+ Proud Beaver from [Oregon State University](http://eecs.oregonstate.edu/~kungc/)
  
- C Before Python!
+JS is awesome!
  
  NoSQL Rocks!
 
 ## 🔭 I’m currently working on
 
-- [HSC CPU](https://hsc.anth.dev)
-- Setting up LVM
+- [HSC CPU v2](https://hsc.anth.dev)
+- School 😭
 
 ### Recent Notable Project Tracking
 
@@ -47,11 +45,6 @@ I'm currently looking for internship, if you have an opening for ITOps engineers
 | [AUM](https://github.com/Anthonykung/Anthonian-Uptime-Monitoring)              | December 25, 2020 | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Active](https://img.shields.io/static/v1?label=maintenance&message=active&color=green)                        |
 | [GitSave](https://github.com/Anthonykung/GitSave)                              | January 24, 2021  | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Active](https://img.shields.io/static/v1?label=maintenance&message=active&color=green)                        |
 
-
-### 👆 Looking For The "Add me as a partner so we can develop together" Button?
-
-Let's chat! See below for how to reach me :P
-
 ## 💬 Ask me about
 
 Anything! I'd love to chat about almost anything and I like to make friends. So you can [ask about my secrets](https://tellonym.me/anthonykung) and I may or may not tell you 😜.
@@ -60,17 +53,17 @@ Anything! I'd love to chat about almost anything and I like to make friends. So 
 
 #### 📟 Forums
 
-I'm not really active on forums, there's really no reason for me to so I only get on it when I'm bored, if someone needs my attention they could mention me. I only have a 38k per day impact on Stack overflow, I mean sure I have a Shopify Partner's badge on Shopify Community but that's a lot of people asking for free work. Ever since I helped someone fixed their stuff cause I'm bored, I've been getting messages asking if I can fix their's, that's not cool.
+I'm not really active on forums, there's really no reason for me to so I only get on it when I'm bored, if someone needs my attention they could mention me. I only have a ~85k per day impact on Stack Overflow, I mean sure I have a Shopify Partner's badge on Shopify Community but that's a lot of people asking for free work. Ever since I helped a few people to fix their stuff cause I'm bored, I've been getting messages asking if I can fix their's, that's not cool.
 
 #### 👨‍🏫 Tutorials
 
-Yes, I do make free tutorials and stuff too, but I've put them on hold for now. Why? Take a look at this:
+Yes, I do make free tutorials and stuff too with 1,632 enrollments, but I've put them on hold for now. Why? Take a look at this:
 
 ![Almost 500 notifications per day](https://vault.hailiga.org/Anthonykung/Images/Repl-it-Dashboard.PNG)
 
-I assume you know the reason now. That's a lot of notification for a day. Don't know about you but that's a lot for a teenager to handle.
+I assume you know the reason now. That's a lot of notifications. Don't know about you but that's a lot for a ~~teenager~~ person to handle.
 
-But don't worry, the tutorials will be back sometime in the future when I have the resources to handle all that... Might take a few million years but they will be back eventually...
+But don't worry, the tutorials will be back sometime in the future when I have the resources to handle all that... Might take a few million years but they will be back...  eventually...
 
 #### 🎥 Videos
 
@@ -84,11 +77,7 @@ But if you have any ideas on what videos I should make or any kinds of ideas at 
 
 2. Email me at [hi@anth.dev](mailto:hi@anth.dev)
 
-3. Call/Text me at:
-  - US Toll Free: [+1 (844) 424-5442 Ex 700](tel:+18444245442,700)
-  - International: [+1 (541) 930-7600 Ex 700](tel:+15419307600,700)
-
-4. Go on to my website using one of the following links:
+3. Go on to my website using one of the following links:
   - [AnthonyKung.com](https://anthonykung.com)
   - [AnthonyKung.dev](https://anthonykung.dev)
   - [Anthony.lol](https://anthony.lol)
@@ -99,11 +88,11 @@ But if you have any ideas on what videos I should make or any kinds of ideas at 
 
 They all redirects to AnthonyKung.com eventually, so you might as well just go there...
 
-5. Go on Trove and find Anthonykung or join Monster Buster Club MBC
+4. Go on Trove and find Anthonykung or join Monster Buster Club MBC
 
-6. Find me on Discord if you can
+5. Find me on Discord if you can
 
-7. Find my public social media account, though don't be creepy if you choose this method
+6. Find my public social media account, though don't be creepy if you choose this method
 
 In the unlikely event that you actually found me in person, do not reach out to me as it will go super awkward...
 
