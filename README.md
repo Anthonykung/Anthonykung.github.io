@@ -23,6 +23,7 @@ JS is awesome!
 
 - [HSC CPU v2](https://hsc.anth.dev)
 - School 😭
+- Senior Design Project (gonna be awesome 😎)
 
 ### Recent Notable Project Tracking
 
