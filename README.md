@@ -24,6 +24,7 @@ JS is awesome!
 - [HSC CPU v2](https://hsc.anth.dev)
 - School 😭
 - Senior Design Project (gonna be awesome 😎 and it's gonna be Hardware + Software)
+- Just finished [RepoSync](https://github.com/marketplace/actions/anthreposync) and been abusing it 🤣
 
 ### Recent Notable Project Tracking
 
