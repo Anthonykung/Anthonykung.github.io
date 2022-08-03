@@ -2,51 +2,42 @@
 
 I'm Anthony Kung, an Electrical & Computer Engineer and also a Computer Scientist. I started coding at the age of 12 and have been working as a professional developer since the age of 13. From 2014 to 2020, I have worked on over 300 projects including some multimillion companies, that's an average of 1 project per week. On 2021, I won the Electrical and Computer Engineering Junior Design **Technical Choice Award** at Oregon State University [check it out here](https://eecs.oregonstate.edu/project-showcase/browse.php?category=ECE34xSp21).
 
-I currently operate 9 servers and over 30 domains.
-
 ## 📢 Shoutout
- [@TheOneKevin](https://github.com/TheOneKevin) is super smart! Go Kev :3
- 
- <!-- Me <3 boyfriend Kevin :P -->
 
- #BlackLivesMatter
- 
- Office & IT Supervisor at [KidSpirit @ Oregon State University](https://kidspirit.oregonstate.edu)
- 
- Proud Beaver from [Oregon State University](http://eecs.oregonstate.edu/~kungc/)
- 
-JS is awesome!
- 
- NoSQL Rocks!
+[@TheOneKevin](https://github.com/TheOneKevin) is super smart! Go Kev :3
+
+<!-- Me <3 boyfriend Kevin :P -->
+
+Proud Beaver from [Oregon State University](http://eecs.oregonstate.edu/~kungc/)
+
+I have graduated!!!! 🎉🎉🎉
 
 ## 🔭 I’m currently working on
 
-- [HSC CPU v2](https://hsc.anth.dev)
-- School 😭
-- Senior Design Project (gonna be awesome 😎 and it's gonna be Hardware + Software)
-- Just finished [RepoSync](https://github.com/marketplace/actions/anthreposync) and been abusing it 🤣
+- Grinding Verilog as Digital Verification Intern @ onsemi
 
 ### Recent Notable Project Tracking
 
-| Project Codename                                                               | Start Date        | Current Status                                                                                        | Maintenance Status                                                                                                           |
-| ------------------------------------------------------------------------------ | ----------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| [Intro to C++](https://repl.it/talk/learn/Intro-to-C/15340)                    | June 4, 2019      | ![Status: Development](https://img.shields.io/static/v1?label=status&message=development&color=blue)  | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
-| Cool Timer ORG                                                                 | July 11, 2020     | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
-| Stunning Project                                                               | July 19, 2020     | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
-| Insane Marking                                                                 | July 23, 2020     | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
-| Awesome Membership                                                             | July 23, 2020     | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
-| JATE                                                                           | July 23, 2020     | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
-| [Carrot Theme](https://github.com/Anthonykung/Carrot-Gay-Theme-for-VS-Code)    | August 30, 2020   | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Inactive](https://img.shields.io/static/v1?label=maintenance&message=inactive&color=yellow)                   |
-| Fascinating Contents                                                           | October 16, 2020  | ![Status: Development](https://img.shields.io/static/v1?label=status&message=development&color=blue)  | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
-| [Dart Theme LaTex](https://github.com/Anthonykung/Dark-Theme-LaTex)            | October 18, 2020  | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Inactive](https://img.shields.io/static/v1?label=maintenance&message=inactive&color=yellow)                   |
-| [Project Disco](https://github.com/Anthonykung/WordPress-Project-Disco)        | October 18, 2020  | ![Status: Abandoned](https://img.shields.io/static/v1?label=status&message=abandoned&color=red)       | ![Maintenance: None](https://img.shields.io/static/v1?label=maintenance&message=none&color=red)                              |
-| [Cow Disguise](https://github.com/Anthonykung/Cow-Disguise)                    | October 19, 2020  | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Inactive](https://img.shields.io/static/v1?label=maintenance&message=inactive&color=yellow)                   |
-| [AK1917](https://github.com/Anthonykung/AK1917)                                | November 5, 2020  | ![Status: Abandoned](https://img.shields.io/static/v1?label=status&message=abandoned&color=red)       | ![Maintenance: None](https://img.shields.io/static/v1?label=maintenance&message=none&color=red)                              |
-| Magnificent Community                                                          | November 23, 2020 | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
-| Marvelous Core                                                                 | December 1, 2020  | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
-| [AUM](https://github.com/Anthonykung/Anthonian-Uptime-Monitoring)              | December 25, 2020 | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Active](https://img.shields.io/static/v1?label=maintenance&message=active&color=green)                        |
-| [GitSave](https://github.com/Anthonykung/GitSave)                              | January 24, 2021  | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Active](https://img.shields.io/static/v1?label=maintenance&message=active&color=green)                        |
-| [RepoSync](https://github.com/Anthonykung/RepoSync)                            | October 25, 2021  | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Active](https://img.shields.io/static/v1?label=maintenance&message=active&color=green)                        |
+| Project Codename                                                            | Start Date        | Current Status                                                                                        | Maintenance Status                                                                                                           |
+| --------------------------------------------------------------------------- | ----------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| [Intro to C++](https://repl.it/talk/learn/Intro-to-C/15340)                 | June 4, 2019      | ![Status: Development](https://img.shields.io/static/v1?label=status&message=development&color=blue)  | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
+| Cool Timer ORG                                                              | July 11, 2020     | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
+| Stunning Project                                                            | July 19, 2020     | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
+| Insane Marking                                                              | July 23, 2020     | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
+| Awesome Membership                                                          | July 23, 2020     | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
+| JATE                                                                        | July 23, 2020     | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
+| [Carrot Theme](https://github.com/Anthonykung/Carrot-Gay-Theme-for-VS-Code) | August 30, 2020   | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Inactive](https://img.shields.io/static/v1?label=maintenance&message=inactive&color=yellow)                   |
+| Fascinating Contents                                                        | October 16, 2020  | ![Status: Development](https://img.shields.io/static/v1?label=status&message=development&color=blue)  | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
+| [Dart Theme LaTex](https://github.com/Anthonykung/Dark-Theme-LaTex)         | October 18, 2020  | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Inactive](https://img.shields.io/static/v1?label=maintenance&message=inactive&color=yellow)                   |
+| [Project Disco](https://github.com/Anthonykung/WordPress-Project-Disco)     | October 18, 2020  | ![Status: Abandoned](https://img.shields.io/static/v1?label=status&message=abandoned&color=red)       | ![Maintenance: None](https://img.shields.io/static/v1?label=maintenance&message=none&color=red)                              |
+| [Cow Disguise](https://github.com/Anthonykung/Cow-Disguise)                 | October 19, 2020  | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Inactive](https://img.shields.io/static/v1?label=maintenance&message=inactive&color=yellow)                   |
+| [AK1917](https://github.com/Anthonykung/AK1917)                             | November 5, 2020  | ![Status: Abandoned](https://img.shields.io/static/v1?label=status&message=abandoned&color=red)       | ![Maintenance: None](https://img.shields.io/static/v1?label=maintenance&message=none&color=red)                              |
+| Magnificent Community                                                       | November 23, 2020 | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
+| Marvelous Core                                                              | December 1, 2020  | ![Status: Halt](https://img.shields.io/static/v1?label=status&message=halt&color=yellow)              | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
+| [AUM](https://github.com/Anthonykung/Anthonian-Uptime-Monitoring)           | December 25, 2020 | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Active](https://img.shields.io/static/v1?label=maintenance&message=active&color=green)                        |
+| [GitSave](https://github.com/Anthonykung/GitSave)                           | January 24, 2021  | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Active](https://img.shields.io/static/v1?label=maintenance&message=active&color=green)                        |
+| [ARGH](https://github.com/Anthonykung/ARGH)                                 | October 4, 2021   | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Inactive](https://img.shields.io/static/v1?label=maintenance&message=inactive&color=yellow)                   |
+| [RepoSync](https://github.com/Anthonykung/RepoSync)                         | October 25, 2021  | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Active](https://img.shields.io/static/v1?label=maintenance&message=active&color=green)                        |
 
 ## 💬 Ask me about
 
@@ -64,7 +55,7 @@ Yes, I do make free tutorials and stuff too with 1,632 enrollments, but I've put
 
 ![Almost 500 notifications per day](https://vault.hailiga.org/Anthonykung/Images/Repl-it-Dashboard.PNG)
 
-I assume you know the reason now. That's a lot of notifications. Don't know about you but that's a lot for a ~~teenager~~ person to handle.
+I assume you know the reason now. That's a lot of notifications. Don't know about you but that's a lot for a ~~teenager~~ ~~college kid~~ graduate school kid to handle.
 
 But don't worry, the tutorials will be back sometime in the future when I have the resources to handle all that... Might take a few million years but they will be back...  eventually...
 
@@ -77,9 +68,7 @@ But if you have any ideas on what videos I should make or any kinds of ideas at 
 ## 📫 How to reach me:
 
 1. Find me on Discord
-
 2. Email me at [hi@anth.dev](mailto:hi@anth.dev)
-
 3. Go on to my website using one of the following links:
   - [AnthonyKung.com](https://anthonykung.com)
   - [AnthonyKung.dev](https://anthonykung.dev)
@@ -92,9 +81,7 @@ But if you have any ideas on what videos I should make or any kinds of ideas at 
 They all redirects to AnthonyKung.com eventually, so you might as well just go there...
 
 4. Go on Trove and find Anthonykung or join Monster Buster Club MBC
-
-5. Find me on Discord if you can
-
+5. Join me on Minecraft [mcje.anthonian.host](https://mcje.anthonian.host)
 6. Find my public social media account, though don't be creepy if you choose this method
 
 In the unlikely event that you actually found me in person, do not reach out to me as it will go super awkward...
@@ -110,7 +97,7 @@ He/Him/His
 ## ⚡ Fun fact:
 
 - I was born in Taiwan but raised in 4 different countries and have never stayed for more than 6 months in my home country
-- I'm a teenager that has been making everyone to believe I'm 20+
+- I'm a ~~teenager~~ graduate student that has been making everyone to believe I'm ~~20+~~ 16
 - I watch cartoons, my backgrounds & blankets are Ben 10, Minecraft, Boruto...
 - I'm almost NREMT licensed medic, the pandemic has gotten in the way of my rotations
 - I behave like a kid but I don't consider myself a kid (I'm wearing the same shorts I wore when I was 10)
