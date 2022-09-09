@@ -4,13 +4,13 @@ I'm Anthony Kung, an Electrical & Computer Engineer and also a Computer Scientis
 
 ## 📢 Shoutout
 
-[@TheOneKevin](https://github.com/TheOneKevin) is super smart! Go Kev :3
-
-<!-- Me <3 boyfriend Kevin :P -->
-
 Proud Beaver from [Oregon State University](http://eecs.oregonstate.edu/~kungc/)
 
 I have graduated!!!! 🎉🎉🎉
+
+And I'm back to school for a M.S. :3 better yet it's sponsored :P
+
+I'm a Graduate Research and Teaching Assistant now
 
 ## 🔭 I’m currently working on
 
