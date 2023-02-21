@@ -4,6 +4,10 @@ I'm Anthony Kung, an Electrical & Computer Engineer and also a Computer Scientis
 
 ## 📢 Shoutout
 
+ [@TheOneKevin](https://github.com/TheOneKevin) is super smart! Go Kev :3
+ 
+ <!-- Me <3 boyfriend Kevin :P -->
+
 Proud Beaver from [Oregon State University](http://eecs.oregonstate.edu/~kungc/)
 
 I have graduated!!!! 🎉🎉🎉
@@ -14,7 +18,7 @@ I'm a Graduate Research and Teaching Assistant now
 
 ## 🔭 I’m currently working on
 
-- Grinding Verilog as Digital Verification Intern @ onsemi
+- AI Accelerator Research (hardware stuff with transformer)
 
 ### Recent Notable Project Tracking
 
@@ -38,6 +42,7 @@ I'm a Graduate Research and Teaching Assistant now
 | [GitSave](https://github.com/Anthonykung/GitSave)                           | January 24, 2021  | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Active](https://img.shields.io/static/v1?label=maintenance&message=active&color=green)                        |
 | [ARGH](https://github.com/Anthonykung/ARGH)                                 | October 4, 2021   | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Inactive](https://img.shields.io/static/v1?label=maintenance&message=inactive&color=yellow)                   |
 | [RepoSync](https://github.com/Anthonykung/RepoSync)                         | October 25, 2021  | ![Status: Operational](https://img.shields.io/static/v1?label=status&message=operational&color=green) | ![Maintenance: Active](https://img.shields.io/static/v1?label=maintenance&message=active&color=green)                        |
+| HPCA                                                                        | January 24, 2023  | ![Status: Development](https://img.shields.io/static/v1?label=status&message=development&color=blue)  | ![Maintenance: Under Development](https://img.shields.io/static/v1?label=maintenance&message=under%20development&color=blue) |
 
 ## 💬 Ask me about
 
